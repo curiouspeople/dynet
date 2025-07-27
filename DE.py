@@ -115,5 +115,5 @@ if __name__ == '__main__':
         X = np.vstack([X, DE_feature])
 
     # save .npy file
-    # np.save("E:/博士成果/跟吴老师的第一篇文章/BCI-III-IIIa/DE/All_Subject.npy", X)
+    # np.save("./BCI-III-IIIa/DE/All_Subject.npy", X)
 
